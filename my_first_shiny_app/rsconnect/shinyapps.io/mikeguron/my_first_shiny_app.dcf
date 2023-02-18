@@ -1,0 +1,13 @@
+name: my_first_shiny_app
+title: my_first_shiny_app
+username:
+account: mikeguron
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352034
+bundleId: 6861909
+url: https://mikeguron.shinyapps.io/my_first_shiny_app/
+when: 1676752019.82322
+lastSyncTime: 1676752019.82322
+asMultiple: FALSE
+asStatic: FALSE
